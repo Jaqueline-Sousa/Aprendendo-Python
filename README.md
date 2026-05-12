@@ -3,4 +3,7 @@
 ## Primeira aula
 
 ### Programando em Python
-  - Variaveis
+- Variaveis
+- tipos de dados
+  - int
+  - string
