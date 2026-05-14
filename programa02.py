@@ -6,7 +6,7 @@ media = (n1+n2+n3)/3
 if media >= 7:
     print ("O aluno foi aprovado: ")
 
-elif media <= 5:
-    print ("O aluno está de recuperaçäo: ")
 elif media <= 6:
+    print ("O aluno está de recuperaçäo: ")
+elif media <= 5:
      print ("O aluno está reprovado: ")
