@@ -1,0 +1,17 @@
+exe1 = (15 > 7) and (3==3)
+print (f"O Resultado da questão 1 é : {exe1}")
+
+exe2 = (10 < 4) or (8 != 5)
+print (f"O Resultado da questão 1 é : {exe1} \n0 resultado da questão 2 é {exe2}")
+
+exe3 = (20 > 20)
+print (f"O resultado da questão 3 é : {exe3}")
+
+exe4 = (5 * 2 == 10) and not (3>4)
+print (f"O Resultado da questão 4 é : {exe4}")
+
+exe5 = (12/2 == 5) or (7<=7)
+print (f"O resultado da questão 5 é : {exe5}")
+
+exe6 = (9!=9) and (4 > 1)
+print (f"O resultado da questão 6 é : {exe6}")
